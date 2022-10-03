@@ -1,0 +1,98 @@
+\tlegislative branch
+bicameral legislature
+cloture
+committee of the whole
+conference committees
+constituencies
+delegate
+discharge petition
+divided government
+earmarks
+entitlements
+filibuster
+gerrymandering
+gridlock
+house rules committee
+joint committees
+logrolling
+mandatory spending
+majority leader
+minority leader
+necessary and proper clause
+politico model
+pork barrel legislation
+president pro tempore
+select committees
+speaker of the house
+standing committees
+trustee
+whip
+divided government
+gridlock
+constituent service
+oversight
+\texecutive branch
+bully pulpit
+bureaucracy
+cabinet
+commander-in-chief
+electoral college
+enumerated/expressed powers
+executive agreement
+executive order
+inherent powers
+line-item veto
+pocket veto
+signing statement
+twenty-fifth amendment
+twenty-second amendment
+state of the union
+roles of the executive
+\tjudicial branch
+appellate jurisdiction
+concurring opinion
+courts of appeals
+dissenting opinion
+district court
+judicial activism
+judicial restraint
+judicial review
+original jurisdiction
+percuriam opinion
+political question
+precedent
+standing to sue
+stare decisis
+writ of certiorari
+unanimous opinion
+majority opinion
+broad constructionism
+strict constructionism
+\tbureaucracy
+bureaucracy
+committee hearings
+compliance monitoring
+congressional oversight
+discretionary authority
+iron triangle
+issue network
+merit system
+independent executive agencies
+independent regulatory agencies
+government corporations
+political appointments
+civil servants
+deregulation
+sunshine laws
+privatization
+whistleblower protection
+\tfoundational documents
+US Constitution
+Federalist no. 70
+Federalist no. 51
+federalist no. 78
+\trequired supreme court cases
+baker v carr (1961)
+shaw v reno (1993)
+Marbury v Madison (1803)
+Citizens United v Federal Election Commission (2010)
